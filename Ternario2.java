@@ -14,7 +14,7 @@ public class Ternario2 {
 		ler.close();
 		
 		System.out.print( "O numero " + a);
-		System.out.println(a % 5 == 0 ? "é mulitplo de 5" : "não é multiplo");
+		System.out.println(a % 5 == 0 ? " é mulitplo de 5" : " não é multiplo de 5");
 	}
 
 }
